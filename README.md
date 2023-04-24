@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TarasChybis
-- 👀 I’m interested in java development
-- 🌱 I’m currently learning at PROG Academy 
-- 💞️ I’m looking to collaborate on interesting and profitable projects
+- 👀 I’m interested in java development 
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: Telegram:@Taras Chybis, E-Mail:t0660804676@gmail.com, Phone:+380660804676, LinkedIn:linkedin.com/in/taras-chybis-814086225, Skype:@Taras Chybis
 
 <!---
