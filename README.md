@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TarasChybis
-- 👀 I’m interested in java development 
+- 👀 I’m interested in Front-end development 
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me: Telegram:@Taras Chybis, E-Mail:t0660804676@gmail.com, Phone:+380660804676, LinkedIn:linkedin.com/in/taras-chybis-814086225, Skype:@Taras Chybis
+- 📫 How to contact me: Telegram:@Taras Chybis, E-Mail:t0660804676@gmail.com
 
 <!---
 TarasChybis/TarasChybis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
